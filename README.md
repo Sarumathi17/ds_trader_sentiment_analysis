@@ -132,3 +132,12 @@ Data Science Enthusiast
 This project reveals that trader behavior and profitability are **deeply linked to market sentiment**.  
 Periods of Greed correlate with higher profits and volatility, while Fear phases lead to lower activity and smaller trades.  
 Understanding these emotional dynamics can enhance **trading strategy design**, **risk management**, and **market timing decisions**.
+
+## 🚀 Access the Colab Notebook
+
+You can open and run the full analysis directly in Google Colab using the link below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ia-6ShrAhaRru1PiamKiM7jWqlI2u9Ez?usp=sharing)
+> **Note:**  
+> The notebook includes data cleaning, EDA (univariate, bivariate, multivariate), and final insights on trader performance vs market sentiment.
+
