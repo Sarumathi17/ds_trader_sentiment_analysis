@@ -16,7 +16,7 @@ By analyzing profit/loss (`ClosedPnL`), trade sizes, and trading sides (BUY/SELL
 📁 ds_trader_sentiment_analysis/
 │
 ├── csv_files/
-|   ├── historical_data.csv
+|   ├── historical_data.csv 
 │   ├── fear_greed_index.csv
 │   ├── merged_trades_with_sentiment.csv
 │   └── cleaned_trading_data.csv
@@ -35,6 +35,14 @@ By analyzing profit/loss (`ClosedPnL`), trade sizes, and trading sides (BUY/SELL
 ├── ds_report.pdf
 └── README.md
 ```
+
+> ⚠️ Due to GitHub’s file size limitations, the following large CSV files are **not uploaded** to this repository.  
+> You can download them using the link below:
+
+| File Name | Description | Download Link |
+|------------|-------------|----------------|
+| **historical_data.csv** | Raw trade-level data containing execution details, trade size, and profit/loss information. | [📥 Download historical_data.csv]([https://drive.google.com/your-shared-link-here](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjV)) |
+| **merged_trades_with_sentiment.csv** | Final merged dataset combining trade data with sentiment classifications. | *generate from notebook* |
 ---
 
 ## ⚙️ Setup Instructions
